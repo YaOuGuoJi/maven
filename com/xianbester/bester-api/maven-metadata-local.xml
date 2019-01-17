@@ -3,14 +3,15 @@
   <groupId>com.xianbester</groupId>
   <artifactId>bester-api</artifactId>
   <versioning>
-    <release>0.0.9-RELEASE</release>
+    <release>0.1.0-RELEASE</release>
     <versions>
       <version>0.0.5-SNAPSHOT</version>
       <version>0.0.6-RELEASE</version>
       <version>0.0.7-RELEASE</version>
       <version>0.0.8-RELEASE</version>
       <version>0.0.9-RELEASE</version>
+      <version>0.1.0-RELEASE</version>
     </versions>
-    <lastUpdated>20190116082056</lastUpdated>
+    <lastUpdated>20190117085511</lastUpdated>
   </versioning>
 </metadata>
